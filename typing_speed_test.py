@@ -52,7 +52,7 @@ def wpm_test(stdscr):
         stdscr.refresh()
 
         if "".join(current_text) == target_text:
-            stdscr.addstr(2, 0, "You completed the text! Press any key to continue...")
+            stdscr.addstr(2, 0, f"You completed the text with WPM: {wpm} Press any key to continue...")
             stdscr.refresh()
             stdscr.getch()
             break
