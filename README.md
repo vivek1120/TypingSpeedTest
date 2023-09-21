@@ -4,8 +4,8 @@ This is a simple command-line tool for testing typing speed. It presents the use
 
 ## How to Use
 
-1. Make sure you have Python installed on your system.
-2. Run the script using the command `python speed_typing_test.py`.
+1. Make sure you have Python3 installed on your system.
+2. Run the script using the command `python3 speed_typing_test.py`.
 3. Follow the on-screen instructions.
 
 ## Instructions
